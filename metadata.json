@@ -1,0 +1,5 @@
+{
+  "name": "Denver Weekend Getaway Planner",
+  "description": "An AI-powered travel assistant to generate personalized weekend getaway itineraries for Denver, Colorado based on your interests.",
+  "requestFramePermissions": []
+}
